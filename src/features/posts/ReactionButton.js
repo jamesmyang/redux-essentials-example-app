@@ -4,7 +4,7 @@ import { useDispatch } from 'react-redux';
 import { reactionAdded } from './postsSlice';
 
 const reactEmoji = {
-  thumbUp: '👍',
+  thumbsUp: '👍',
   hooray: '🎉',
   heart: '❤️',
   rocket: '🚀',
